@@ -443,6 +443,39 @@ export default function App() {
     setUploadedFilesList(prev => prev.filter((_, i) => i !== index))
   }
 
+  // Handle Job Description file upload (Module 1 requirement: paste or upload JD)
+  const handleJDFileUpload = async (e) => {
+    const file = e.target.files?.[0]
+    if (!file) return
+
+    const baseName = file.name.replace(/\.[^/.]+$/, "").replace(/[_\-]/g, " ")
+    setJobTitle(baseName)
+
+    if (file.name.endsWith('.txt')) {
+      const reader = new FileReader()
+      reader.onload = (event) => {
+        setJobDescription(event.target?.result || '')
+      }
+      reader.readAsText(file)
+    } else {
+      // For PDF / DOCX, parse via backend upload endpoint
+      const formData = new FormData()
+      formData.append('file', file)
+      try {
+        const res = await fetch('http://localhost:8000/api/upload-resume', {
+          method: 'POST',
+          body: formData
+        })
+        if (res.ok) {
+          const data = await res.json()
+          setJobDescription(data.raw_text || '')
+        }
+      } catch (err) {
+        console.error('JD parse error:', err)
+      }
+    }
+  }
+
   // Main Batch Analyze Trigger
   const handleAnalyzeBatch = async () => {
     if (!jobDescription.trim()) {
@@ -1000,7 +1033,24 @@ export default function App() {
                 <div>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
                     <label className="input-label" style={{ marginBottom: 0 }}>Job Description & Criteria</label>
-                    <span style={{ fontSize: 11, color: 'var(--text-muted)' }}>Paste or choose preset</span>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                      <input 
+                        type="file" 
+                        id="jd-file-picker" 
+                        accept=".pdf,.docx,.txt" 
+                        style={{ display: 'none' }} 
+                        onChange={handleJDFileUpload}
+                      />
+                      <label 
+                        htmlFor="jd-file-picker" 
+                        className="btn-secondary" 
+                        style={{ fontSize: 11, padding: '3px 10px', cursor: 'pointer', display: 'inline-flex', alignItems: 'center', gap: 4 }}
+                      >
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+                        Upload JD (PDF/DOCX/TXT)
+                      </label>
+                      <span style={{ fontSize: 11, color: 'var(--text-muted)' }}>or paste below</span>
+                    </div>
                   </div>
                   <textarea 
                     className="text-input-field" 
