@@ -1,0 +1,28 @@
+Dr. Priya Sharma
+Email: priya.sharma@example.com
+Phone: (555) 987-6543
+Location: Boston, MA
+
+SUMMARY
+Lead Data Scientist with 6+ years of expertise in Natural Language Processing (NLP), predictive modeling, and deep learning architectures. Adept at turning complex unstructured text into actionable business intelligence.
+
+SKILLS
+- Core AI/ML: Machine Learning, Deep Learning, NLP, Computer Vision
+- Languages: Python, SQL, C++
+- Tools & Frameworks: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+- Cloud & Infrastructure: AWS, Docker, Git, Linux
+- Concepts: TF-IDF, Transformer Models, Embeddings, Topic Modeling
+
+EXPERIENCE
+Lead Data Scientist | AI Innovations Lab (2020 - Present)
+- Architected large-scale NLP pipelines for automated document classification and sentiment analysis.
+- Fine-tuned transformer models for multi-lingual semantic matching resulting in 94% precision.
+- Deployed real-time inference endpoints on AWS using Docker.
+
+Data Scientist | Analytics Corp (2018 - 2020)
+- Built predictive churn models using Scikit-learn and Pandas.
+- Automated data ingestion workflows from PostgreSQL data warehouses.
+
+EDUCATION
+Ph.D. in Computer Science (AI/NLP) | MIT (2014 - 2018)
+B.S. in Mathematics | Stanford University (2010 - 2014)

@@ -1,0 +1,29 @@
+Arjun Kumar
+Email: arjun.kumar@example.com | Phone: (555) 345-6789
+Location: Bangalore, India
+
+EDUCATION
+B.E. in Computer Science (2022–2026), CGPA 8.2
+Global Institute of Technology
+
+INTERNSHIP EXPERIENCE
+Machine Learning Intern
+AI Solutions Inc. | January 2026 – March 2026
+- Developed deep learning text processing workflows using TensorFlow and Python.
+- Built lightweight inference APIs with Flask.
+- Collaborated using Git and GitHub for version control.
+
+TECHNICAL SKILLS
+- Languages: Python, Java, SQL
+- Machine Learning & Data Science: Pandas, NumPy, Scikit-learn, EDA, Data Preprocessing, Model Evaluation
+- Deep Learning & NLP: TensorFlow, CNN, NLP, LLMs, Prompt Engineering
+- Frameworks & Databases: Flask, PostgreSQL
+- Tools: Git, GitHub
+
+ACADEMIC PROJECTS
+Customer Churn Prediction (2025)
+- Trained predictive classification models using Scikit-learn, Pandas, and NumPy.
+Sentiment Analysis Using NLP (2025)
+- Analyzed customer reviews using Natural Language Processing and TensorFlow.
+Student Performance Prediction (2024)
+- Built regression models evaluating educational indicators.

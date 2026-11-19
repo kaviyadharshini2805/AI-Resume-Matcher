@@ -1,0 +1,26 @@
+Position: Junior AI / Python Engineer
+Department: Artificial Intelligence & Cloud Services
+
+Role Overview:
+We are seeking a motivated Junior AI Engineer to contribute to our machine learning and API services. Freshers and early-career candidates are welcome.
+
+Experience Requirement:
+0–2 years of experience (Entry-level / Fresh graduates welcome)
+
+Education:
+Bachelor's Degree in Computer Science, Information Technology, or related engineering discipline.
+
+Required Skills:
+- Python
+- Flask
+- FastAPI
+- TensorFlow
+- PyTorch
+- RAG (Retrieval-Augmented Generation)
+- AWS
+- Azure
+
+Preferred Skills:
+- Docker
+- Kubernetes
+- CI/CD

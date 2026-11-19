@@ -1,0 +1,23 @@
+Neha Patel
+Email: neha.patel@example.com | Phone: (555) 567-8901
+Location: San Jose, CA
+
+SUMMARY
+Full-Stack Cloud Engineer with 4 years of experience building scalable web architectures and containerized microservices.
+
+EXPERIENCE
+Full-Stack Engineer | NexusCloud
+January 2022 – Present
+- Developed REST APIs and microservices using FastAPI, Python, and PostgreSQL.
+- Architected CI/CD pipelines and managed container orchestration with Docker and Kubernetes on AWS.
+- Built responsive client dashboards using React and TypeScript.
+
+SKILLS
+- Languages: Python, TypeScript, JavaScript, SQL
+- Frameworks: FastAPI, React, Node.js
+- Cloud & DevOps: Docker, Kubernetes, AWS, CI/CD, Git, Linux
+- Databases: PostgreSQL, Redis, MongoDB
+
+EDUCATION
+B.S. in Computer Engineering (2018–2022)
+San Jose State University

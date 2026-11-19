@@ -1,0 +1,20 @@
+Emily Clark
+Email: emily.clark@example.com | Phone: (555) 654-3210
+Location: Chicago, IL
+
+SUMMARY
+Creative Frontend UI Developer with 3 years of experience crafting interactive web applications using modern JavaScript frameworks.
+
+EXPERIENCE
+Frontend Developer | WebDesign Studio
+March 2023 – Present
+- Designed responsive user interfaces using React, HTML5, CSS3, and Tailwind.
+- Integrated third-party client REST APIs and optimized client-side rendering.
+
+SKILLS
+- Frontend: React, JavaScript, TypeScript, HTML, CSS, Tailwind
+- Tools: Git, Figma
+
+EDUCATION
+Bachelor of Arts in Graphic Design & Web Arts (2019–2023)
+Columbia College Chicago

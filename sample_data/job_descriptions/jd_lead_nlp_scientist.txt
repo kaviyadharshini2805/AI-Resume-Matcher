@@ -1,0 +1,27 @@
+Position: Lead AI & NLP Scientist
+Department: Research & Advanced Intelligence
+
+Role Overview:
+Seeking a Lead AI & NLP Scientist to architect deep learning foundation models and semantic search architectures.
+
+Required Experience:
+Minimum 5 years of hands-on professional experience in Machine Learning, Deep Learning, and NLP.
+
+Education:
+Ph.D. or Master's Degree in Computer Science, Artificial Intelligence, or Mathematics.
+
+Required Skills:
+- Machine Learning
+- Deep Learning
+- NLP
+- PyTorch
+- Transformers
+- LLM
+- Python
+
+Preferred Skills:
+- TensorFlow
+- Scikit-learn
+- AWS
+- Docker
+- SQL

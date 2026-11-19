@@ -1,0 +1,10 @@
+Experienced Developer Profile
+
+SUMMARY
+Seasoned developer proficient in Python and database management. Eager to solve complex challenges in software engineering.
+
+SKILLS
+Python, SQL, Linux
+
+EXPERIENCE
+Assisted various clients with custom Python scripts and backend automation routines.

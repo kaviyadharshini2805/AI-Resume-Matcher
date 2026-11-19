@@ -1,0 +1,27 @@
+Position: Senior Python Backend Engineer
+Department: Core Infrastructure & Cloud Platforms
+
+Role Overview:
+Seeking a Senior Python Backend Engineer to architect and scale our distributed cloud microservices.
+
+Required Experience:
+4+ years of professional backend engineering experience.
+
+Education:
+Bachelor's Degree in Computer Science or equivalent practical engineering experience.
+
+Required Skills:
+- Python
+- FastAPI
+- Docker
+- Kubernetes
+- PostgreSQL
+- Redis
+- SQL
+- Git
+
+Preferred Skills:
+- AWS
+- CI/CD
+- Linux
+- Microservices

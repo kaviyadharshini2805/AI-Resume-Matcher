@@ -1,0 +1,20 @@
+Sarah Connor
+Email: sarah.connor@example.com | Phone: (555) 890-1234
+Location: Los Angeles, CA
+
+SUMMARY
+Self-taught developer with coding bootcamp certification. Strong enthusiasm for Python web scripting.
+
+EDUCATION
+Full-Stack Web Development Bootcamp Certificate (2024)
+CodeCamp Academy
+High School Diploma (2020)
+
+EXPERIENCE
+Junior Scripting Assistant | MediaTech
+September 2024 – Present
+- Automated spreadsheet processing using Python and Bash.
+
+SKILLS
+- Languages: Python, JavaScript, HTML, CSS
+- Tools: Git

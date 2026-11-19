@@ -1,0 +1,20 @@
+David Kim
+Email: david.kim@example.com | Phone: (555) 789-4561
+Location: Seattle, WA
+
+EDUCATION
+Bachelor of Science in Computer Science (2022–2026)
+University of Washington
+
+INTERNSHIP EXPERIENCE
+Software Engineering Intern | TechStart Inc.
+January 2026 – March 2026
+- Built Python unit tests and helped document API endpoints.
+
+SKILLS
+- Languages: Python, Java
+- Tools: Git, Linux
+
+ACADEMIC PROJECTS
+Personal Blog Engine (2025)
+- Created a static site generator with Python.

@@ -1,0 +1,28 @@
+Alex Johnson
+Email: alex.johnson@example.com | Phone: (555) 234-5678
+Location: San Francisco, CA
+
+SUMMARY
+Senior Software Engineer with 5+ years of experience designing scalable microservices, high-throughput REST APIs, and distributed cloud applications.
+
+EXPERIENCE
+Senior Software Engineer | CloudTech Solutions
+January 2021 – Present
+- Designed and maintained high-throughput REST APIs handling 10M+ daily requests using FastAPI, Python, and Redis.
+- Orchestrated containerized deployments via Docker and Kubernetes on AWS.
+- Mentored junior engineers and practiced Agile/Scrum methodologies.
+
+Software Engineer | DevWorks Inc.
+June 2019 – December 2020
+- Built backend services with Python, PostgreSQL, and Docker.
+- Optimized SQL database query latency by 35%.
+
+SKILLS
+- Languages: Python, SQL, Golang
+- Frameworks: FastAPI, Django
+- Cloud & DevOps: Docker, Kubernetes, AWS, CI/CD, Git, Linux
+- Databases: PostgreSQL, Redis
+
+EDUCATION
+B.S. in Computer Science (2015–2019)
+University of California, Berkeley

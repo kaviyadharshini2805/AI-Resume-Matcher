@@ -1,0 +1,24 @@
+Rohan Mehta
+Email: rohan.mehta@example.com
+Phone: (555) 789-0123
+Location: Bangalore, India
+
+EDUCATION
+B.E. in Computer Science, 2022–2026, CGPA 8.2
+Global Institute of Technology
+
+EXPERIENCE
+Machine Learning Intern
+AI Solutions Inc. | January 2026 – March 2026
+- Developed and deployed deep learning text processing pipelines using TensorFlow and Python.
+- Built lightweight internal REST endpoints for model inference using Flask.
+- Collaborated with engineering team on Git-based version control and SQL databases.
+
+SKILLS
+- Languages: Python, SQL
+- Machine Learning & Frameworks: TensorFlow, Flask
+- Tools & Methodologies: Git, Linux
+
+ACADEMIC PROJECTS
+Smart Image Tagger (Academic Project, 2025)
+- Trained convolutional neural networks on custom dataset using TensorFlow.

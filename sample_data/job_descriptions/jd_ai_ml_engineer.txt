@@ -1,0 +1,31 @@
+Position: AI/ML Engineer
+Department: Artificial Intelligence & Cloud Services
+
+Role Overview:
+We are seeking an enthusiastic AI/ML Engineer to contribute to our machine learning pipelines and inference API services.
+
+Required Experience:
+0–2 years (Entry-level / Fresh graduates welcome)
+
+Education:
+Bachelor's Degree in Computer Science, Information Technology, or related discipline.
+
+Required Skills:
+- Python
+- Machine Learning (ML)
+- Pandas
+- NumPy
+- Scikit-learn
+- EDA
+- Data Preprocessing
+- Model Evaluation
+- SQL
+
+Preferred Skills:
+- TensorFlow or PyTorch
+- NLP
+- LLMs
+- RAG
+- FastAPI or Flask
+- Git
+- AWS or Azure

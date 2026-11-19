@@ -1,0 +1,23 @@
+Vikram Singh
+Email: vikram.singh@example.com | Phone: (555) 901-2345
+Location: New York, NY
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience building neural models and deploying microservices on GCP.
+
+EXPERIENCE
+ML Engineer | DataPulse Systems
+January 2023 – Present
+- Implemented deep neural models using Keras and TensorFlow.
+- Built microservice backend endpoints with Flask and Django.
+- Containerized model workflows using Docker on GCP.
+
+SKILLS
+- Languages: Python, SQL
+- Machine Learning & DL: Keras, TensorFlow, Deep Learning, Pandas, NumPy
+- Web & Backend: Flask, Django, REST API
+- Cloud: GCP, Docker, Git
+
+EDUCATION
+B.Tech in Computer Science (2019–2023)
+National Institute of Technology

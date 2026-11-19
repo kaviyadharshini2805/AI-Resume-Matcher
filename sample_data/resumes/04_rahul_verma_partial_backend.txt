@@ -1,0 +1,21 @@
+Rahul Verma
+Email: rahul.verma@example.com | Phone: (555) 432-1098
+Location: Austin, TX
+
+SUMMARY
+Software Developer with 2 years of experience focused on basic Python scripting and database maintenance.
+
+EXPERIENCE
+Junior Developer | SoftBase Corp
+July 2024 – Present
+- Maintained SQL queries and internal data extract scripts using Python.
+- Assisted with bug fixes in legacy web modules.
+
+SKILLS
+- Programming: Python, SQL, HTML, CSS
+- Databases: MySQL, SQLite
+- Tools: Git
+
+EDUCATION
+Bachelor of Science in Information Technology (2020–2024)
+Texas State University
